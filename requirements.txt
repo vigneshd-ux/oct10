@@ -1,0 +1,5 @@
+openai
+tenacity
+python-dotenv
+pytest
+tqdm
